@@ -2,8 +2,8 @@
 
 ## 🔗 Live Demo
 
-Health Management System:  https://p2x5t-yqaaa-aaaah-arcma-cai.icp0.io/#/project-details 
-Presentation: https://chat.z.ai/space/s01dq8ucstz0-ppt
+- Health Management System:  https://p2x5t-yqaaa-aaaah-arcma-cai.icp0.io/#/project-details 
+- Presentation: https://chat.z.ai/space/s01dq8ucstz0-ppt
 
 
 <div align="center">
