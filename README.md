@@ -29,10 +29,10 @@
 - **University**: Lovely Professional University
 
 ## Team Members
-- [Golu Kumar] - [Backend Developer] 
-- [Medha Jha] - [AI Specialist] 
-- [Ajay Gangwar] - [Blockchain Developer] 
-- [Sarwajeet Singh] - [UI/UX Designer]
+- Golu Kumar - Backend Developer
+- Medha Jha - AI Specialist
+- Ajay Gangwar - Blockchain Developer
+- Sarwajeet Singh - UI/UX Designer
   
 ## Problem Statement - Open Innovation
 In traditional healthcare systems, patient records are:
