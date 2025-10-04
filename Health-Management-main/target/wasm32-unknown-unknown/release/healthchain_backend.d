@@ -1,1 +1,0 @@
-/home/golu_kumar/Health-Management-System/Health-Management-main/target/wasm32-unknown-unknown/release/healthchain_backend.wasm: /home/golu_kumar/Health-Management-System/Health-Management-main/src/healthchain_backend/src/lib.rs
