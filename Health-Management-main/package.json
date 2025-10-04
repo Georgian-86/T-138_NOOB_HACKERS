@@ -1,0 +1,17 @@
+{
+  "name": "health-management-system",
+  "version": "1.0.0",
+  "description": "Health Management System with Mock Backend",
+  "main": "mock-backend.js",
+  "scripts": {
+    "start": "node mock-backend.js",
+    "start:frontend": "cd src/Health-Management-frontend && npm start",
+    "dev": "concurrently \"npm start\" \"npm run start:frontend\""
+  },
+  "dependencies": {
+    "cbor-x": "^1.6.0",
+    "concurrently": "^7.6.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
